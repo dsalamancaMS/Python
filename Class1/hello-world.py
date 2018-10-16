@@ -30,6 +30,7 @@ sin importart que el string cambie de tamano
 #prints array from end to begining d-5 e-4 n-3
 print(nombre[-3])
 
+print("prints from index 0 to index 3-1=2")
 print(nombre[0:3])
 
 
