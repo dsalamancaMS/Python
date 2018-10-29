@@ -40,7 +40,7 @@ def substract(a,b):
 
 print('\n')
 
-# Dictionary of functions works like a switch.
+# Dictionary of functions work like a switch.
 taco_calculator = {
     'sumar': plus,
     'restar': substract
