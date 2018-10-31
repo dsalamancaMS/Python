@@ -33,6 +33,7 @@ new_print("stuff")
 
 
 def plus(a,b):
+    print('HEY')
     return a + b
 
 def substract(a,b):
@@ -46,5 +47,5 @@ taco_calculator = {
     'restar': substract
 }
 
-print(taco_calculator['sumar'](2,3))
+print(taco_calculator['restar'](6,3))
 

@@ -1,7 +1,7 @@
 # Try, if fails it will execute an except based on its <ERROR TYPE> and do X or Y, if no error else is executed, finally will always be exectued
 
 c = 10
-d = 0
+d = 2
 
 try:
     e = c / d
