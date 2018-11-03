@@ -2,11 +2,11 @@
 
 my_dict = {'Denis': 116150555, 'Person1':12345}
 
-# Show Value of key:
+print('Show Value of key:')
 
 print(my_dict['Denis'])
 
-# Change vlaue of key: 
+print('Change vlaue of key:' )
 
 my_dict['Person1'] = 54321
 
@@ -39,7 +39,7 @@ slang_dict.update({'La Choza': 'The House'})
 
 print(slang_dict)
 
-# Print values:
+print('Print values:')
 
 print(slang_dict.values())
 

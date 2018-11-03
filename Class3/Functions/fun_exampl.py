@@ -49,3 +49,10 @@ taco_calculator = {
 
 print(taco_calculator['restar'](6,3))
 
+#Default arguments
+
+def my_name(name='denis',last_name='salamanca'):
+    return f'My Name is {name} {last_name}'
+
+print(my_name('valeria'))
+
