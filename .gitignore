@@ -8,3 +8,8 @@ Homeworks/1_Calculator/__pycache__/*
 Homeworks/1_Calculator/.pytest_cache/*
 Homeworks/1_Calculator/.tox/*
 Homeworks/1_Calculator/MANIFEST
+Class2/__pycache__/*
+Class2/.pytest_cache/*
+Class2/.tox/*
+Class2/MANIFEST
+.idea/*
